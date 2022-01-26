@@ -6,6 +6,7 @@ function App() {
   let tempsJavascript = dateCourante.getTime();
   let tempsPHP = tempsJavascript
   
+  
   let day = dateCourante.getDate();
   let month = dateCourante.getMonth();
   let year = dateCourante.getFullYear();
